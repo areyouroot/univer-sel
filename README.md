@@ -62,7 +62,7 @@
 
     fun fact - some orgs pay you for reporting the bug and some org case a lawsuit to hacking them. there are platfoms who help us like hackerone etc.....
 
-    So developers make stuff, real hackers break the stuff and force it to things that it was never ment to do
+    So developers make stuff, real hackers break the stuff and force it to things that it was never ment to do. so break code not heart or law
 
     so this round u can download any opesource code dopwnload it and try to build it compile it then break it...
 
