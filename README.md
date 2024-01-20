@@ -1,4 +1,6 @@
-# so rules should be like (in this entire document ignore grammer and spelling)
+# BOOT TO ROOT
+
+## so rules should be like (in this entire document ignore grammer and spelling)
 
 ### you can do anything as long as you dont break the system (because its cresents property)
 ### smart people use Chatgpt, legends use bard (easy to break)
@@ -75,6 +77,9 @@
     https://github.com/Vatshayan/Live-Chatbot-for-Final-Year-Project
 
     remember if u take the orgs code like firefox google they will pay you as well for reporting the bug
+
+
+    # Thank You
 
     note - use python or js based code they are easy to build else download nasa html code and hack nasa code using html.
 
